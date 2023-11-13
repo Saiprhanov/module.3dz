@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "module3dz", "module3dz.csproj", "{B8B9CFD6-28D8-49BE-B1A7-62CE1FDF0A62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8B9CFD6-28D8-49BE-B1A7-62CE1FDF0A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B9CFD6-28D8-49BE-B1A7-62CE1FDF0A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B9CFD6-28D8-49BE-B1A7-62CE1FDF0A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B9CFD6-28D8-49BE-B1A7-62CE1FDF0A62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41264F50-2089-49CF-A712-004C4228FA18}
+	EndGlobalSection
+EndGlobal
